@@ -1,4 +1,4 @@
-<h1>Hi, I'm Derek! <br/><a href="https://github.com/drkwwh21">Python Developer</a>, <a href="www.linkedin.com/in/drkwwh21/">Data Scientist, Data Engineer</a>
+<h1>Hi, I'm Derek! <br/><a href="https://github.com/drkwwh21">Python Developer</a>, <a href="https://www.linkedin.com/in/drkwwh21/">Data Scientist, Data Engineer</a>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
