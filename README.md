@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Song Recommendation Engine using Machine Learning</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Song Recommendation Engine](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2> 🤳 Connect with me:</h2>
