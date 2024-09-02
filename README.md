@@ -5,10 +5,10 @@
 - <b>Building a song recommendation engine using Machine Learning</b>
   - [Song Recommendation Engine](https://github.com/drkwwh21/SongRecommendationEngine)
 
-<h2>👨‍💻 Statstics Projects:</h2>
+<h2>👨‍💻 Statistics Projects:</h2>
 
-- <b>Does drinking beers attract mosquitioes?</b>
-  - [Song Recommendation Engine](https://github.com/drkwwh21/SongRecommendationEngine)
+- <b>Does drinking beer attracts mosquitioes?</b>
+  - [Permutation Testing (Significance Testing)](https://github.com/drkwwh21/SongRecommendationEngine)
  
 <h2> 🤳 Connect with me:</h2>
 
