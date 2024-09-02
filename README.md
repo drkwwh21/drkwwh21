@@ -1,11 +1,15 @@
 <h1>Hi, I'm Derek! <br/><a href="https://github.com/drkwwh21">Python Developer</a>, <a href="https://www.linkedin.com/in/drkwwh21/">Data Scientist, Data Engineer</a>
 
-<h2>👨‍💻 Data Science Projects:</h2>
+<h2>👨‍💻 Machine Learning Projects:</h2>
 
-- <b>Song Recommendation Engine using Machine Learning</b>
+- <b>Building a song recommendation engine using Machine Learning</b>
   - [Song Recommendation Engine](https://github.com/drkwwh21/SongRecommendationEngine)
 
+<h2>👨‍💻 Statstics Projects:</h2>
 
+- <b>Does drinking beers attract mosquitioes?</b>
+  - [Song Recommendation Engine](https://github.com/drkwwh21/SongRecommendationEngine)
+ 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
