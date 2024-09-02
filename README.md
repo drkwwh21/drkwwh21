@@ -8,7 +8,7 @@
 <h2>👨‍💻 Statistics Projects:</h2>
 
 - <b>Does drinking beer attracts mosquitioes?</b>
-  - [Permutation Testing (Significance Testing)](https://github.com/drkwwh21/SongRecommendationEngine)
+  - [Permutation Testing (Significance Testing)](https://github.com/drkwwh21/PermutationTesting)
  
 <h2> 🤳 Connect with me:</h2>
 
