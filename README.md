@@ -11,6 +11,7 @@
   - [Permutation Testing (Significance Testing)](https://github.com/drkwwh21/PermutationTesting)
 - <b>Regressions</b>
   - [Linear Regression](https://github.com/drkwwh21/LinearRegression)
+  - [Multiple Linear Regression](https://github.com/drkwwh21/MultipleLinearRegression)
  
 <h2> 🤳 Connect with me:</h2>
 
