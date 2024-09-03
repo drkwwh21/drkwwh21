@@ -12,6 +12,7 @@
 - <b>Regressions</b>
   - [Linear Regression](https://github.com/drkwwh21/LinearRegression)
   - [Multiple Linear Regression](https://github.com/drkwwh21/MultipleLinearRegression)
+  - [Linear Regression with categorical and ordinal variables](https://github.com/drkwwh21/LinearRegressionWithCategoricalVariables)
  
 <h2> 🤳 Connect with me:</h2>
 
