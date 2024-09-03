@@ -10,6 +10,9 @@
 - <b>Does drinking beer attracts mosquitoes?</b>
   - [Permutation Testing (Significance Testing)](https://github.com/drkwwh21/PermutationTesting)
  
+- - <b>another one</b>
+  - [Linear Regression](https://github.com/drkwwh21/LinearRegression)
+ 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
