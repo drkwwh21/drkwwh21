@@ -9,7 +9,6 @@
 
 - <b>Does drinking beer attracts mosquitoes?</b>
   - [Permutation Testing (Significance Testing)](https://github.com/drkwwh21/PermutationTesting)
- 
 - <b>Regressions</b>
   - [Linear Regression](https://github.com/drkwwh21/LinearRegression)
  
